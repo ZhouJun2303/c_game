@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Sanke.cpp
+  贪吃蛇.cpp
+  正在生成代码...
+  TRACKER : 错误 TRK0002: 未能执行命令: “"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe" /ERRORREPORT:PROMPT @C:\Users\Administrator\AppData\Local\Temp\tmp91448b9cde034887beaceb358ef79cb8.rsp”。拒绝访问。
+  
+  
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(720,5): error MSB6006: “link.exe”已退出，代码为 2。
