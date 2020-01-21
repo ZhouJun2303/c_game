@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+e:\aaaaaaaa\d2048\consoleapplication1\consoleapplication1.cpp(120): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\aaaaaaaa\d2048\consoleapplication1\consoleapplication1.cpp(120): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\aaaaaaaa\d2048\consoleapplication1\consoleapplication1.cpp(84): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\aaaaaaaa\d2048\consoleapplication1\consoleapplication1.cpp(108): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\aaaaaaaa\d2048\consoleapplication1\consoleapplication1.cpp(112): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+e:\aaaaaaaa\d2048\consoleapplication1\consoleapplication1.cpp(555): fatal error C1075: “{”: 未找到匹配令牌

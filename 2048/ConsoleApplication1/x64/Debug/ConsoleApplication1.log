@@ -1,0 +1,6 @@
+﻿cl : 命令行 warning D9025: 正在重写“/D_CRT_SECURE_NO_DEPRECATE”(用“/U_CRT_SECURE_NO_DEPRECATE”)
+cl : 命令行 warning D9025: 正在重写“/D_CRT_NONSTDC_NO_DEPRECATE”(用“/U_CRT_NONSTDC_NO_DEPRECATE”)
+  ConsoleApplication1.cpp
+c:\users\administrator\desktop\d2048\consoleapplication1\consoleapplication1.cpp(120): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\administrator\desktop\d2048\consoleapplication1\consoleapplication1.cpp(120): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  ConsoleApplication1.vcxproj -> C:\Users\Administrator\Desktop\d2048\x64\Debug\ConsoleApplication1.exe
